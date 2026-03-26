@@ -1,3 +1,4 @@
+![](5d39a104db7871908047f8cb041e274d.jpg)
 # Hi there,I'm shakarobia35 ✨
 ## 🤔在校计科大一学生|a first-year university student majoring in computer science who is currently enrolled
 ***
