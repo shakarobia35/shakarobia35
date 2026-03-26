@@ -8,8 +8,6 @@
 + 🌱立志深耕后端领域，持续学习分享。希望能顺利分流到软件工程专业，继续精进计算机基础知识、开拓视野
 + 🌏热爱生活，喜欢旅行、骑行、拍摄。性格在intp和intj反复跳转😄
 + 📬邮箱:770733919@qq.com
-<!--   green snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
 ## 💻 技术栈详情
 *以下是我接触过的众多技术列表，但这并不意味着任何级别的知识、熟练程度或可用性。*
@@ -35,13 +33,6 @@
 | :--- | :--- | :--- |
 | 2006-2025 | 📚 学生时代 | 普通的小镇做题家 |
 | 2025-2028 | 🎓 大学生涯 | 在大学读计算机 |
-<!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
-
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
 ***
 ### 主页观看次数
 自 March 25, 2026 开始统计
