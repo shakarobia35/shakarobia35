@@ -25,7 +25,26 @@
 ***
 > 喜欢一个小故事:人类中流传着关于"时间机器"的故事，传说曾有人搭乘卵囊回到过去，试图解救世界于水火之中。循着印记，少年找到了它的残骸。容器高而深，少年一边爬一边设想。里面会有什么?精密繁复的仪盘、时空交叠的虫洞?这个卵囊是否还能运转，是否能慷慨地满足陌生访客的愿望?他正是为此而来。终于，他登上顶部，向内望去。那是个再普通不过的铁壳；铁壳里只有一具蜷缩的骨头。"原来如此!我早就知道了!世界上本就只有虫卵，而没有时光机啊!"
 ***
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
 
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:           A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake:       Color of the snake
+    #  - color_dots:        Coma separated list of dots color.
+    #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                       Exactly 5 colors are expected.
+    #  - color_background:  Color of the background (for gif only)
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 
 <!--
 **shakarobia35/shakarobia35** is a _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
