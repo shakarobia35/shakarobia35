@@ -4,7 +4,7 @@
 ## 🤔在校计科大一学生|a first-year university student majoring in computer science who is currently enrolled
 + 🔭热爱后端开发
 + 🛠️所持技能:Python、C++
-+ 📦正在进行的项目:C语言和C++基础语法学习，GitHub和Markdown相关知识积累
++ 📦正在进行的项目:C语言和C++基础语法学习，GitHub,Markdown,HTML,CSS,JavaScript相关知识积累
 + 🌱立志深耕后端领域，持续学习分享。希望能顺利分流到软件工程专业，继续精进计算机基础知识、开拓视野
 + 🌏热爱生活，喜欢旅行、骑行、拍摄。性格在intp和intj反复跳转😄
 + 📬邮箱:770733919@qq.com
@@ -27,6 +27,9 @@
 | C++ | ⭐⭐ |
 | Markdown | ⭐⭐ |
 | GitHub/Git | ⭐⭐ |
+| HTML | ⭐⭐ |
+| CSS | ⭐⭐ |
+| JavaScript | ⭐⭐ |
 ***
 ## 📖简短的人生经历
 | 时间段 | 阶段 | 描述 |
