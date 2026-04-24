@@ -45,7 +45,7 @@
 
 ![](https://count.getloli.com/get/@shakarobia35.github.readme)
 </br>
-![](./footer.jpg)
+![footer](https://raw.githubusercontent.com/shakarobia35/shakarobia35/main/footer.jpg)
 
 
 
