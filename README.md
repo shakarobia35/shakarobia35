@@ -30,6 +30,9 @@
 | HTML | ⭐⭐ |
 | CSS | ⭐⭐ |
 | JavaScript | ⭐⭐ |
+
+![GitHub 统计](https://github-readme-stats.vercel.app/api?username=shakarobia35&show_icons=true&theme=radical)
+![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=shakarobia35&layout=compact)
 ***
 ## 📖简短的人生经历
 | 时间段 | 阶段 | 描述 |
